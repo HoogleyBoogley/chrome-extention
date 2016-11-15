@@ -1,0 +1,12 @@
+{
+
+    "name": "HoogleyBoogley",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "A place to see things all HoogleyBoogley! All from the comfort of you favorite browser!",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    }
+
+}
